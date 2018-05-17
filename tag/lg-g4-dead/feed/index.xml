@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>LG G4 Dead &#8211; Neil Wilcoxson</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>CS Student and non-Professional Photographer</description>
+	<lastBuildDate>Thu, 17 May 2018 19:39:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>UPDATE: LG G4 Replacement</title>
+		<link>./../../../2016/12/12/update-lg-g4-replacement/index.html</link>
+		<pubDate>Tue, 13 Dec 2016 02:34:13 +0000</pubDate>
+		<dc:creator><![CDATA[Neil]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Android Bootloop]]></category>
+		<category><![CDATA[Android Phone Problems]]></category>
+		<category><![CDATA[G4 Replacement]]></category>
+		<category><![CDATA[LG G4]]></category>
+		<category><![CDATA[LG G4 Bootloop]]></category>
+		<category><![CDATA[LG G4 Chipset Problem]]></category>
+		<category><![CDATA[LG G4 Dead]]></category>
+		<category><![CDATA[Moto X]]></category>
+		<category><![CDATA[Motorola]]></category>
+		<category><![CDATA[Motorola void warranty]]></category>
+		<category><![CDATA[Motrola Unlock Bootloader]]></category>
+		<category><![CDATA[Motrola X]]></category>
+		<category><![CDATA[T-Mobile Customer Service]]></category>
+		<category><![CDATA[unlock bootloader]]></category>
+		<category><![CDATA[unlock bootloader Androird]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=197</guid>
+		<description><![CDATA[Unfortunately I don&#8217;t have time to make a well produced video sharing all of the details of my situation. However, I would like to share [...]]]></description>
+				<content:encoded><![CDATA[<p>Unfortunately I don&#8217;t have time to make a well produced video sharing all of the details of my situation. However, I would like to share some details about what has happened lately, because I feel like the video I posted a few weeks ago left the whole thing a little open ended.</p>
+<p>First, a refresh about what happened.  I was going about my day as I normally would, and while using it, my phone shut off.  The bootloader screen came up, but got stuck.  I attempted several restarts and got the phone all the way booted several times, but could never stay on for more than five minutes or so.  I thought it was a software problem, and reflashed the ROM, but I had no luck.  Upon further research, I found out that this was happening as a result of a hardware fault, which the internet had known about since the beginning of the year.  Unfortunately, my phone outlasted the one year warranty, and I ended up having to get a new phone.  This is where I left off at the end of the video I posted.  If you&#8217;re interested in seeing me explain it in the moment you can watch the video <a href="https://www.youtube.com/watch?v=zRVwj5TNfBQ">here.</a></p>
+<p>Another frustrating aspect to the whole situation is that I had the phone leased on Jump on Demand (through T-Mobile).  I had three months remaining, and then I was planning on paying off the phone and keeping it because I liked it&#8217;s features, as I mentioned in my <a href="https://www.youtube.com/watch?v=_VPeswyxF5Q">Finding a Long Lasting Phone video</a>.  This wasn&#8217;t going to be possible.</p>
+<p>The phone I ended getting a Moto X.  I would have liked to get a phone that I could add an extended battery to, but there aren&#8217;t very many of those out there, and at this point they are mostly very low end phones.  Most standard phone batteries cannot make it through the day with my usage, and the Moto X is no exception.  Now I have to work out a mobile charging solution, which is inconvenient, but I can manage.  If it was the case that I couldn&#8217;t get an extended battery, I might have considered a phone from OnePlus, but I needed something I could get quick, and all of the OnePlus phones were backordered at the time.  Ultimately I&#8217;m okay with this selection because the Moto X has pretty much the same specs are the LG G4.  The Moto X also has a purer version of Android, one of my main complaints about the G4.</p>
+<p>At some point I&#8217;ll be sure to make a video detailing my impressions.  However, I will be waiting a while, because there are already plenty of videos from people who have used the phone for about a week.  I&#8217;d rather discuss aspects of the phone that will impact the long term.  I&#8217;ll also have to discuss the fact that to get the unlock code for the bootloader, you have to agree to void the warranty, something that I don&#8217;t want to do, considering what happened to my last phone.  So yes, I&#8217;ll be running on non-rooted Android for a while.</p>
+<p>In summary, this whole thing sucks, and I would have been perfectly happy keeping my LG G4.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

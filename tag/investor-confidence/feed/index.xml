@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>investor confidence &#8211; Neil Wilcoxson</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>CS Student and non-Professional Photographer</description>
+	<lastBuildDate>Thu, 17 May 2018 19:39:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>When will Bitcoin become less volatile?</title>
+		<link>./../../../2017/11/05/when-will-bitcoin-become-less-volatile/index.html</link>
+		<pubDate>Sun, 05 Nov 2017 16:02:47 +0000</pubDate>
+		<dc:creator><![CDATA[Neil]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[America]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[cryptocurrencies]]></category>
+		<category><![CDATA[deflation]]></category>
+		<category><![CDATA[dollars]]></category>
+		<category><![CDATA[fiat currency]]></category>
+		<category><![CDATA[government currency]]></category>
+		<category><![CDATA[government money]]></category>
+		<category><![CDATA[inflation]]></category>
+		<category><![CDATA[investor confidence]]></category>
+		<category><![CDATA[monetary policy]]></category>
+		<category><![CDATA[monetary sytem]]></category>
+		<category><![CDATA[speculation]]></category>
+		<category><![CDATA[US government]]></category>
+		<category><![CDATA[USD]]></category>
+		<category><![CDATA[volatile]]></category>
+		<category><![CDATA[volatility]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=321</guid>
+		<description><![CDATA[The exchange rate for Bitcoin has been all over the place over the past few months, going as high as $7500 recently, and as low [...]]]></description>
+				<content:encoded><![CDATA[<p>The exchange rate for Bitcoin has been all over the place over the past few months, going as high as $7500 recently, and as low as $3000 in September.  These price fluctuations are caused by speculation.  By speculation, I mean that people are buying it simply hoping that they will buy it now and then sell it later for a higher price.  I haven&#8217;t heard of many people exchanging their money for Bitcoin because it was necessary to go and buy some product or service that they wanted.  This leads to a circular problem.  Merchants don&#8217;t want to accept Bitcoin because it is so volatile.  On the other side of the coin, Bitcoin is volatile because most of its trading activity is done by people who are speculating on it.</p>
+<p>There is a way to solve for this, but the first people to attempt it will see it as a huge risk.  The problem with Bitcoin is that merchants who accept want to charge the amount of Bitcoin that is precisely equivalent, at the time of the transaction, to the amount they would charge for the same item in dollars.  If someone wanted to use Bitcoin as their daily currency, a daily cup of coffee (or other item purchased regularly) would change in price everyday, by a lot.  Yes, some products, like gasoline, change in price on a daily basis, but not nearly to the extent that the Bitcoin exchange rate does.  Bitcoin will become much more viable when there are businesses that set a price in Bitcoin, not in the local government currency.  Ultimately this means that a business has to only accept Bitcoin, because if they offered both forms of payment, people would pick the one worth less at the time of the transaction.</p>
+<p>Businesses take a loss when they decide to exchange their Bitcoin immediately at the time of the transaction.  However, this is necessary to cover expenses that must be paid in the government currency.  Perhaps taxes will always be paid in the government&#8217;s currency, but that doesn&#8217;t mean everything else has to be.  It would be difficult for a business to pay everyone else in Bitcoin.  If a business requires material goods, the others businesses providing those must be willing the accept Bitcoin.  Furthermore, employees have to be willing to accept Bitcoin.  For the employees to be willing to accept it, other businesses have to accept it.  Thus the cycle continues.</p>
+<p>People are comfortable with dollars because they are confident that the paycheck they earn today will buy them the food they need tomorrow, the same way it did last week, and the weeks before that.  If we stopped comparing Bitcoin to the dollar, Bitcoin would also be able to provide this comfort.  In other words, Bitcoin will become less volatile when we start thinking about its value in terms of the goods and services it can buy, rather than how much of the government&#8217;s currency it can buy.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

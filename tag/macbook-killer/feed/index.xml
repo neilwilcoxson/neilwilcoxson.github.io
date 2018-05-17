@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MacBook Killer &#8211; Neil Wilcoxson</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>CS Student and non-Professional Photographer</description>
+	<lastBuildDate>Thu, 17 May 2018 19:39:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>My Problem With The Razer Blade</title>
+		<link>./../../../2017/01/19/my-problem-with-the-razer-blade/index.html</link>
+		<pubDate>Thu, 19 Jan 2017 22:00:37 +0000</pubDate>
+		<dc:creator><![CDATA[Neil]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Gaming Laptop]]></category>
+		<category><![CDATA[Laptop Battery]]></category>
+		<category><![CDATA[Lenovo T460p]]></category>
+		<category><![CDATA[MacBook Killer]]></category>
+		<category><![CDATA[Razer Betty]]></category>
+		<category><![CDATA[Razer Blade]]></category>
+		<category><![CDATA[Razer Blade Battery]]></category>
+		<category><![CDATA[Razer Blade Reliability]]></category>
+		<category><![CDATA[User Replaceable Laptop Battery]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=234</guid>
+		<description><![CDATA[As much as I like technology, everything I touch seems to develop some kind of problem.  My laptop, the Razer Blade, is not exempt from [...]]]></description>
+				<content:encoded><![CDATA[<p>As much as I like technology, everything I touch seems to develop some kind of problem.  My laptop, the Razer Blade, is not exempt from this curse.  I’m not writing this article to bash Razer as a company.  I just want you to know some details that professional reviewers aren’t talking about when they review laptops.</p>
+<p>First, the Razer Blade is an impressive computer.  I have the 2013 model, which I got in 2014 when they were selling them at a discount to clear inventory for the new model.  That means I’ve owned this computer for nearly three years now, although I’ve only started using it regularly within the last year.  When the Blade first came out there wasn’t another company making a computer like it.  It has absurd performance, yet still has a compact shell.  When I got this computer I remember noting that it was thinner than the MacBook Pro, the only computer that came close.  Plus, Apple only made a 13” and a 15” and I was looking for a 14”.</p>
+<p>This isn’t the first computer Razer ever made.  Razer previously made another laptop that was 17”.  I don’t remember what it was called, and Razer hadn’t been making it that long anyway.  With it being known that Razer had been making computers for no longer than a year or two, I expected that this computer would have some faults, and it did.  However, I was willing to accept a few minor annoyances because there was no other laptop like it.</p>
+<p>One of the problems was with the charger.  When the charger was under heavy load, for example, running the computer and charging it at the same time, it would make noise.  To be specific, it was a high pitched whine.  I tossed the charger under the desk, and it wasn’t loud enough to bother me.</p>
+<p>Later on I discovered another problem.  During certain weather conditions, one of the fans would come into contact with the bottom of the case.  If this happened all the time, the computer would be going back under warranty for sure, but it happened just infrequently enough that I wasn’t sure they would do anything about it.</p>
+<p>While these problems were annoying, they were minor, and didn’t affect the operation of the computer.  Later though, there was a problem with a major component of the laptop, the battery.  The battery life was never great.  If I recall correctly, it is only a 6000mah battery anyway.  That’s barely enough to run my phone all day under heavy use.  The problem comes about when the battery starts to deteriorate.  All batteries do this, and it shouldn’t be a huge cause for concern.  However, the battery life is not just shortened, there is no accurate indication of when the battery is going to die.  The windows feature that puts the computer into hibernate when the battery is low does not function because the battery cannot accurately report its percentage remaining.</p>
+<p>I always assumed that when this happened, I’d go online and buy a new one.  I assumed it would be around $50 and easy to find, just like any other device with a battery ever.  This was not the case.  The problem is, the Razer Blade is not a very common computer.  There aren’t any third party manufacturers for the battery.  To make it even worse, Razer does not sell a replacement battery.  The only option is to send it to them for repair for several hundred dollars.  While the computer should be worth in excess of that, I’d have a hard time selling it to anyone else with the problems I mentioned earlier.</p>
+<p>For $50 I would replace the battery.  However, several hundred dollars isn’t worth it to me when the battery didn’t even last more than an hour or two to begin with.  After working off the battery and losing my work one time already, I’ve made it a point to never go anywhere without the power adapter.</p>
+<p>In the end it comes down to how long you plan on keeping the computer.  If you plan to upgrade every year or every other year, you might not need to consider these long term reliability problems.  I’m sure Razer has resolved their manufacturing faults from the early models, so you shouldn’t worry about that.  However, until a more advanced battery technology is available, the battery will remain a consumable component.  If you can’t replace the battery yourself, the product can only live as long as the battery does.  After that you’ll need to plugged in at all times.</p>
+<p>Once I can’t take it anymore, I’ll be searching for a new laptop.  A removable battery will be at the top of my list.  For specs similar to the Razer Blade, I’m looking at Lenovo’s T460p, or perhaps a newer model in that series.  At the moment I primarily use my computer at my desk, and the battery isn’t a huge issue.  My current plan is to wait as long as possible so that my new laptop will be both as new and as cheap as possible.  If this has anything in common with my other technology mishaps, I’ll probably have a new laptop by the end of the year.  If that does happen, I’ll be sure to do a review.</p>
+<p><iframe src="https://www.youtube.com/embed/wUox_zqxdng" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Online Backup &#8211; Neil Wilcoxson</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>CS Student and non-Professional Photographer</description>
+	<lastBuildDate>Thu, 17 May 2018 19:39:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>Mass Data Storage: My Solution</title>
+		<link>./../../../2016/11/07/mass-data-storage-my-solution/index.html</link>
+		<pubDate>Mon, 07 Nov 2016 23:51:40 +0000</pubDate>
+		<dc:creator><![CDATA[Neil]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[YouTube]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Code 42]]></category>
+		<category><![CDATA[Crashplan]]></category>
+		<category><![CDATA[Drobo]]></category>
+		<category><![CDATA[Hard Drive Toaster]]></category>
+		<category><![CDATA[Hard Drives]]></category>
+		<category><![CDATA[HDD Toaster]]></category>
+		<category><![CDATA[Laptop]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Mass Data Storage]]></category>
+		<category><![CDATA[Online Backup]]></category>
+		<category><![CDATA[RAID]]></category>
+		<category><![CDATA[SSDs]]></category>
+		<category><![CDATA[USB 3]]></category>
+		<category><![CDATA[USB 3.0]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=174</guid>
+		<description><![CDATA[I&#8217;ve uploaded a new video on YouTube. This week I&#8217;ll talk about my solution for storing video and other large files. It&#8217;s more of a [...]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve uploaded a new video on YouTube. This week I&#8217;ll talk about my solution for storing video and other large files. It&#8217;s more of a story, but hopefully you&#8217;ll be able to find some ideas to improve your system.  Watch below:<br />
+<iframe src="https://www.youtube.com/embed/JM_rAqEjPZA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Here&#8217;s an affiliate link for the &#8220;Hard Drive Toaster&#8221;: <a href="http://amzn.to/2eGVEfT">http://amzn.to/2eGVEfT</a></p>
+<p>and Hard Drive Cases: <a href="http://amzn.to/2eGWd9v">http://amzn.to/2eGWd9v</a></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

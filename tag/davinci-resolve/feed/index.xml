@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Davinci Resolve &#8211; Neil Wilcoxson</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>CS Student and non-Professional Photographer</description>
+	<lastBuildDate>Thu, 17 May 2018 19:39:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>A Free Premiere Replacement? &#8211; DaVinci Resolve</title>
+		<link>./../../../2017/02/13/a-free-premiere-replacement-davinci-resolve/index.html</link>
+		<pubDate>Mon, 13 Feb 2017 19:21:59 +0000</pubDate>
+		<dc:creator><![CDATA[Neil]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[YouTube]]></category>
+		<category><![CDATA[Adobe Premiere Free]]></category>
+		<category><![CDATA[Advanced Color Correction]]></category>
+		<category><![CDATA[Blackmagic]]></category>
+		<category><![CDATA[Blackmagic Design]]></category>
+		<category><![CDATA[Color Correction]]></category>
+		<category><![CDATA[Color Correction Tool]]></category>
+		<category><![CDATA[Color Grading Tool]]></category>
+		<category><![CDATA[Davinci Resolve]]></category>
+		<category><![CDATA[FCP Free]]></category>
+		<category><![CDATA[FCP Replacement]]></category>
+		<category><![CDATA[FCP X]]></category>
+		<category><![CDATA[Final Cut]]></category>
+		<category><![CDATA[Free Editor]]></category>
+		<category><![CDATA[Free Editor Windows]]></category>
+		<category><![CDATA[Free NLE]]></category>
+		<category><![CDATA[Free Video Editor]]></category>
+		<category><![CDATA[Free Video Editor Windows]]></category>
+		<category><![CDATA[Premiere Replacement]]></category>
+		<category><![CDATA[Replacing Premiere]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=255</guid>
+		<description><![CDATA[I released a new video today where I discussed what factors Premiere editors should consider when deciding if they can replace Premiere with DaVinci Resolve.  [...]]]></description>
+				<content:encoded><![CDATA[<p>I released a new video today where I discussed what factors Premiere editors should consider when deciding if they can replace Premiere with DaVinci Resolve.  Over the course of editing this video, I actually found solutions to a few of my complains and ended up cutting those parts out.   After gaining more experience using this tool, perhaps I&#8217;ll make a video exploring the software in more detail.  Enjoy.</p>
+<p><iframe src="https://www.youtube.com/embed/oTPKrzMDQKE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

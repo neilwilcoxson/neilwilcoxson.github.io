@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Android 6 Marshmallow &#8211; Neil Wilcoxson</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>CS Student and non-Professional Photographer</description>
+	<lastBuildDate>Thu, 17 May 2018 19:39:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>Moto X Pure Edition (2015) Review</title>
+		<link>./../../../2017/02/06/moto-x-pure-edition-2015-review/index.html</link>
+		<pubDate>Mon, 06 Feb 2017 22:03:34 +0000</pubDate>
+		<dc:creator><![CDATA[Neil]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[YouTube]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Android 6 Marshmallow]]></category>
+		<category><![CDATA[Android 7]]></category>
+		<category><![CDATA[Android M]]></category>
+		<category><![CDATA[Android N]]></category>
+		<category><![CDATA[CM13]]></category>
+		<category><![CDATA[CyanogenMod]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Lenovo]]></category>
+		<category><![CDATA[LG G4]]></category>
+		<category><![CDATA[LG G4 failure]]></category>
+		<category><![CDATA[LG G4 replacement]]></category>
+		<category><![CDATA[Moto X]]></category>
+		<category><![CDATA[Moto X Pure Android]]></category>
+		<category><![CDATA[Moto X Pure Edition]]></category>
+		<category><![CDATA[Moto X Stlye]]></category>
+		<category><![CDATA[Motorola]]></category>
+		<category><![CDATA[Pure Android]]></category>
+		<category><![CDATA[unlock bootloader]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=242</guid>
+		<description><![CDATA[Due to a recent failure of my LG G4, I had to quickly search for a new phone.  Whether or not it&#8217;s the best phone [...]]]></description>
+				<content:encoded><![CDATA[<p>Due to a recent failure of my LG G4, I had to quickly search for a new phone.  Whether or not it&#8217;s the best phone for me, I&#8217;ve landed with the Moto X Pure Edition.  It&#8217;s fits what I needed better than most Android phones, but I would&#8217;ve preferred that my G4 keep working.</p>
+<p>Here&#8217;s my YouTube video where I discuss the important aspects of the phone in more detail:<br />
+<iframe src="https://www.youtube.com/embed/ajPYrBTUrU4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>As always, I appreciate suggestions for anything you&#8217;d like to see me write or make a video about.  You can use the YouTube comments, or the comments on this page.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

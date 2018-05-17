@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Video Properties</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>CS Student and non-Professional Photographer</description>
+	<lastBuildDate>Sat, 21 Jan 2017 20:00:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>By: Neil</title>
+		<link>./../index.html#comment-19</link>
+		<dc:creator><![CDATA[Neil]]></dc:creator>
+		<pubDate>Sat, 21 Jan 2017 20:00:02 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=15#comment-19</guid>
+		<description><![CDATA[Thank you, I appreciate the support.]]></description>
+		<content:encoded><![CDATA[<p>Thank you, I appreciate the support.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Zach Marcin</title>
+		<link>./../index.html#comment-18</link>
+		<dc:creator><![CDATA[Zach Marcin]]></dc:creator>
+		<pubDate>Sat, 21 Jan 2017 19:55:46 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=15#comment-18</guid>
+		<description><![CDATA[Great summary and analysis of the different video terms, man. I know this is the first blog post of yours that I&#039;ve decided to read, but I&#039;m super impressed about the amount of work and dedication you&#039;ve put into building this. Keep up the great work, man.]]></description>
+		<content:encoded><![CDATA[<p>Great summary and analysis of the different video terms, man. I know this is the first blog post of yours that I&#8217;ve decided to read, but I&#8217;m super impressed about the amount of work and dedication you&#8217;ve put into building this. Keep up the great work, man.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

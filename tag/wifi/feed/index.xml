@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WiFi &#8211; Neil Wilcoxson</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>CS Student and non-Professional Photographer</description>
+	<lastBuildDate>Thu, 17 May 2018 19:39:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>University Technology</title>
+		<link>./../../../2016/08/23/university-technology/index.html</link>
+		<pubDate>Tue, 23 Aug 2016 18:04:32 +0000</pubDate>
+		<dc:creator><![CDATA[Neil]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Baylor]]></category>
+		<category><![CDATA[ID Card]]></category>
+		<category><![CDATA[Magnetic Stripe]]></category>
+		<category><![CDATA[Printing]]></category>
+		<category><![CDATA[RFID]]></category>
+		<category><![CDATA[University]]></category>
+		<category><![CDATA[WiFi]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=152</guid>
+		<description><![CDATA[In case you didn’t know, I’m now away studying at school.  I could talk all about my feelings, but I’m sure plenty of people are [...]]]></description>
+				<content:encoded><![CDATA[<p>In case you didn’t know, I’m now away studying at school.  I could talk all about my feelings, but I’m sure plenty of people are already doing that.  I do, however, want to mention a few things related to technology that I’ve noticed, and perhaps I can follow up on those later.</p>
+<h3>Cell networks</h3>
+<p>Big universities tend to have large buildings, and with those large buildings come very thick walls.  This is the case with my university, and it presents somewhat of a problem when it comes to getting a cell phone signal.  Having T-Mobile doesn’t make it great either.  I’ve heard that there are repeaters for AT&amp;T and Verizon, but T-Mobile doesn’t get any help.  Luckily for me, I have a dorm room on the side of the building that faces away from campus, meaning I can get a signal there.  However, during my day today, my phone reports that it was without signal for nearly 50% of the time.  If you’re someone trying to contact me on my phone, you might want to try something internet based, because of the next point.</p>
+<h3>WiFi networks</h3>
+<p>One thing that saves the day is the pretty solid WiFi network.  While Cyanogenmod doesn’t quite have WiFi calling working yet on the G4 (I’d love to have it though), I can still use internet based communications, and I haven’t had any problems.  The one restriction is that media devices are not allowed on the WiFi network, which can be a problem if your device doesn’t have an Ethernet jack.  Phones, tablets, and laptops are allowed however.</p>
+<h3>Printing</h3>
+<p>Thankfully, unlike my high school, you can print from any computer, even your own.  The downside is that there aren’t just a bunch of printers on the network to choose from.  There is a piece of software that you must install in your computer in order to print, which means mobile devices are probably out of luck (but I’ll have to look into that a little bit further).</p>
+<h3>Logging in to stuff</h3>
+<p>It is really convenient that the same username and password for the university will get you into almost all of their computer resources.  However, logging in once does not let you into everything, even during the same session.  I also can’t effectively use the password manager, because the URL is always different.  [Update: I think I&#8217;ve got the password manager working]  Also, the password has to be changed frequently.  The least frustrating thing to do is probably to just keep entering it by hand (or I’ll have to look into it more).</p>
+<h3>ID Card as key</h3>
+<p>I have to say it is pretty convenient to have one key that unlocks almost everything you have access to.  However, taking my ID card out of my wallet every time I need to unlock something (which I have to do as many as three times just to get from the exterior to inside my dorm room) is more inconvenient than having keys on a ring.  It would be nice if the cards where RFID (and then I could just touch my wallet to the reader), but unfortunately they are only magnetic stripe (and hopefully mine doesn’t get erased by mistake).</p>
+<p>Those were just my observations.  If you’re lucky, they’ll give you something to consider if you’re heading off to school.  Let me know if there’s anything else you’d like to hear about.</p>
+<p>&nbsp;<br />
+<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&#038;p=12&#038;l=ur1&#038;category=student_usa&#038;banner=0H6J57ZP3Q149GPD7RG2&#038;f=ifr&#038;lc=pf4&#038;linkID=c262b0db60ba84e70676f41d2f5dea17&#038;t=nwphotographs-20&#038;tracking_id=nwphotographs-20" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

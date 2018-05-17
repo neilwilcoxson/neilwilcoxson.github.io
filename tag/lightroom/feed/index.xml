@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lightroom &#8211; Neil Wilcoxson</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>CS Student and non-Professional Photographer</description>
+	<lastBuildDate>Thu, 17 May 2018 19:39:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>A Free Lightroom Alternative?</title>
+		<link>./../../../2016/06/18/a-free-lightroom-alternative/index.html</link>
+		<comments>./../../../2016/06/18/a-free-lightroom-alternative/index.html#respond</comments>
+		<pubDate>Sat, 18 Jun 2016 12:00:42 +0000</pubDate>
+		<dc:creator><![CDATA[Neil]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[YouTube]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[digital darkroom]]></category>
+		<category><![CDATA[Lightroom]]></category>
+		<category><![CDATA[LightZone]]></category>
+		<category><![CDATA[open-source]]></category>
+		<category><![CDATA[photo processing]]></category>
+		<category><![CDATA[Photoshop]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=111</guid>
+		<description><![CDATA[As I mentioned in a previous post, I&#8217;m trying to move away from subscription based software, and in particular, Adobe&#8217;s Creative Cloud.  Don&#8217;t get me [...]]]></description>
+				<content:encoded><![CDATA[<p>As I mentioned in a previous post, I&#8217;m trying to move away from subscription based software, and in particular, Adobe&#8217;s Creative Cloud.  Don&#8217;t get me wrong, their software is fantastic, but it just isn&#8217;t affordable for someone who doesn&#8217;t use it for work everyday.  For photo processing, I was willing to spend money on a one time purchase, but instead I found a free piece of software called LightZone that might do the trick.  I thought the best way to make a comparison would be with a YouTube video, so here it is:</p>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/8X_tRdospeY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Hopefully you were able to watch my video, but if not, here&#8217;s a summary of my main points:</p>
+<ul>
+<li>LightZone is also available on Linux, which Lightroom is not</li>
+<li>LightZone doesn&#8217;t use a huge catalog file, which is a plus for me</li>
+<li>Some tips for using LightZone:
+<ul>
+<li>Set the image size smaller to save files faster</li>
+<li>Select image effects from the toolbar on the right</li>
+<li>Some commands are different from Lightroom, but you can get the same effect most of the time</li>
+</ul>
+</li>
+<li>There are more errors than Lightroom, but you get what you pay for (and probably a little bit more too)</li>
+<li>At the end of the day, the result is the same as Lightroom</li>
+</ul>
+<p>If you&#8217;re interested in LightZone, you can find it <a href="http://lightzoneproject.org/">here.</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../2016/06/18/a-free-lightroom-alternative/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

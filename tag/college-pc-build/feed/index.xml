@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>college pc build &#8211; Neil Wilcoxson</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>CS Student and non-Professional Photographer</description>
+	<lastBuildDate>Thu, 17 May 2018 19:39:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>Bringing a Gaming PC to College?</title>
+		<link>./../../../2017/02/20/bringing-a-gaming-pc-to-college/index.html</link>
+		<pubDate>Mon, 20 Feb 2017 19:48:04 +0000</pubDate>
+		<dc:creator><![CDATA[Neil]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[YouTube]]></category>
+		<category><![CDATA[bringing a gaming pc to school]]></category>
+		<category><![CDATA[college pc build]]></category>
+		<category><![CDATA[custom built PC]]></category>
+		<category><![CDATA[desktop pc college]]></category>
+		<category><![CDATA[desktop pc uni]]></category>
+		<category><![CDATA[desktop pc university]]></category>
+		<category><![CDATA[Gaming PC at College?]]></category>
+		<category><![CDATA[gaming pc dorm]]></category>
+		<category><![CDATA[gaming pc dorm room]]></category>
+		<category><![CDATA[gaming pc uni]]></category>
+		<category><![CDATA[gaming pc university]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=258</guid>
+		<description><![CDATA[I made a video discussing five things you should consider when choosing whether or not to bring a gaming PC to college.  Most of these [...]]]></description>
+				<content:encoded><![CDATA[<p>I made a video discussing five things you should consider when choosing whether or not to bring a gaming PC to college.  Most of these will also apply to any high performance PC.  I&#8217;m not really a gamer, but I did have a computer at home for video editing.  Hopefully this is helpful to you in making your decision.  Enjoy.</p>
+<p><iframe src="https://www.youtube.com/embed/IOyP5QReB1U" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

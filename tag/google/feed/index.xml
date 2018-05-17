@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Google &#8211; Neil Wilcoxson</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>CS Student and non-Professional Photographer</description>
+	<lastBuildDate>Thu, 17 May 2018 19:39:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>Will the Moto X (2015) Ever Get Updated?</title>
+		<link>./../../../2017/10/29/will-the-moto-x-2015-ever-get-updated/index.html</link>
+		<pubDate>Sun, 29 Oct 2017 13:34:58 +0000</pubDate>
+		<dc:creator><![CDATA[Neil]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Android 6.0 Marshmallow]]></category>
+		<category><![CDATA[Android 7.0 Nougat]]></category>
+		<category><![CDATA[Android security updates]]></category>
+		<category><![CDATA[Bootloader]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Lineage OS]]></category>
+		<category><![CDATA[Moto X]]></category>
+		<category><![CDATA[Moto X Pure]]></category>
+		<category><![CDATA[Moto X Style]]></category>
+		<category><![CDATA[Motorola]]></category>
+		<category><![CDATA[Motorola bootloader unlock code]]></category>
+		<category><![CDATA[Nexus 5]]></category>
+		<category><![CDATA[ROM]]></category>
+		<category><![CDATA[TWRP]]></category>
+		<category><![CDATA[updating Android]]></category>
+		<category><![CDATA[warranty]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=312</guid>
+		<description><![CDATA[I have a Moto X Pure Edition which I bought at the end of last year as a last minute replacement to my LG G4, [...]]]></description>
+				<content:encoded><![CDATA[<p>I have a Moto X Pure Edition which I bought at the end of last year as a last minute replacement to my LG G4, which was poorly manufactured, and conveniently just out of warranty. Of the phones that were available to buy that day in Best Buy, the Moto X was the best option, but not necessarily a great option.</p>
+<p>In my mind, Motorola had a reputation for keeping their phones up to date.  I had also heard that they made it easy to unlock your bootloader, even providing official instructions on how to do it.  Well, once you own one of their phones, your view on those things changes.  When I took the phone out of the box, it was on Android 5 Lollipop, but there was an update waiting, and I did that.  Now the phone was on Android 6 Marshmallow.  People kept posting online saying that the update to Android 7 Nougat was just around the corner.  To this day, that update has never arrived officially from Motorola.  And worse than that, the security patches are only up to December 2016.</p>
+<p>Thinking that the update was just around the corner, I avoided unlocking the bootloader and installing Lineage OS (the replacement for CyanogenMod, which has had Android 7 available on the Moto X for a while now).  I would have just done it, but Motorola has a catch to providing the bootloader unlock code that people don&#8217;t tell you about, it voids the warranty.  Not just in the sense that they won&#8217;t fix anything stupid you do to the software under warranty, obtaining the code literally puts you in a database for no warranty work.  Given my bad experience with the LG G4 which failed by way of the same chipset that was in the Moto X, I wanted the warranty in force for as long as possible.  But recent Android security concerns changed my stance on this.  I went and got the unlock code and installed Lineage OS.  Even though they don&#8217;t offer a stable build yet, I&#8217;ve found it to have less bugs than the software that Motorola provided.</p>
+<p>But wait, there&#8217;s more.  Whenever I start up the phone, it displays an obnoxious message about the bootloader being unlocked.</p>
+<p><a href="https://i0.wp.com/neilwilcoxson.com/wp-content/uploads/2017/10/MotoXNexusBootComp.jpg"><img class="alignnone size-large wp-image-315" src="https://i0.wp.com/neilwilcoxson.com/wp-content/uploads/2017/10/MotoXNexusBootComp.jpg?resize=860%2C574" alt="" width="860" height="574" srcset="https://i0.wp.com/neilwilcoxson.com/wp-content/uploads/2017/10/MotoXNexusBootComp.jpg?resize=1024%2C683 1024w, https://i0.wp.com/neilwilcoxson.com/wp-content/uploads/2017/10/MotoXNexusBootComp.jpg?resize=300%2C200 300w, https://i0.wp.com/neilwilcoxson.com/wp-content/uploads/2017/10/MotoXNexusBootComp.jpg?resize=768%2C512 768w, https://i0.wp.com/neilwilcoxson.com/wp-content/uploads/2017/10/MotoXNexusBootComp.jpg?w=1720 1720w, https://i0.wp.com/neilwilcoxson.com/wp-content/uploads/2017/10/MotoXNexusBootComp.jpg?w=2580 2580w" sizes="(max-width: 860px) 100vw, 860px" data-recalc-dims="1" /></a></p>
+<p>On the right is my Nexus 5 with a tasteful warning that the bootloader has been unlocked.  On the left is my Moto X telling you that using this device might injure people.  There is a way to replace this message with something else, but I think I&#8217;ll just leave it so I can have a good laugh at the expense of Motorola every time I restart my phone.</p>
+<p>So the answer to the question: Will the Moto X ever get updated?  Officially no, but you can make it happen if you&#8217;re out of warranty or don&#8217;t mind voiding it.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Moto X Pure Edition (2015) Review</title>
+		<link>./../../../2017/02/06/moto-x-pure-edition-2015-review/index.html</link>
+		<pubDate>Mon, 06 Feb 2017 22:03:34 +0000</pubDate>
+		<dc:creator><![CDATA[Neil]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[YouTube]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Android 6 Marshmallow]]></category>
+		<category><![CDATA[Android 7]]></category>
+		<category><![CDATA[Android M]]></category>
+		<category><![CDATA[Android N]]></category>
+		<category><![CDATA[CM13]]></category>
+		<category><![CDATA[CyanogenMod]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Lenovo]]></category>
+		<category><![CDATA[LG G4]]></category>
+		<category><![CDATA[LG G4 failure]]></category>
+		<category><![CDATA[LG G4 replacement]]></category>
+		<category><![CDATA[Moto X]]></category>
+		<category><![CDATA[Moto X Pure Android]]></category>
+		<category><![CDATA[Moto X Pure Edition]]></category>
+		<category><![CDATA[Moto X Stlye]]></category>
+		<category><![CDATA[Motorola]]></category>
+		<category><![CDATA[Pure Android]]></category>
+		<category><![CDATA[unlock bootloader]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=242</guid>
+		<description><![CDATA[Due to a recent failure of my LG G4, I had to quickly search for a new phone.  Whether or not it&#8217;s the best phone [...]]]></description>
+				<content:encoded><![CDATA[<p>Due to a recent failure of my LG G4, I had to quickly search for a new phone.  Whether or not it&#8217;s the best phone for me, I&#8217;ve landed with the Moto X Pure Edition.  It&#8217;s fits what I needed better than most Android phones, but I would&#8217;ve preferred that my G4 keep working.</p>
+<p>Here&#8217;s my YouTube video where I discuss the important aspects of the phone in more detail:<br />
+<iframe src="https://www.youtube.com/embed/ajPYrBTUrU4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>As always, I appreciate suggestions for anything you&#8217;d like to see me write or make a video about.  You can use the YouTube comments, or the comments on this page.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Finding a Phone That Will Last for Years</title>
+		<link>./../../../2016/10/08/finding-a-phone-that-will-last-for-years/index.html</link>
+		<pubDate>Sat, 08 Oct 2016 15:00:42 +0000</pubDate>
+		<dc:creator><![CDATA[Neil]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[YouTube]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[battery]]></category>
+		<category><![CDATA[cell phone]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Nexus]]></category>
+		<category><![CDATA[Pixel]]></category>
+		<category><![CDATA[SD Card]]></category>
+		<category><![CDATA[storage]]></category>
+		<category><![CDATA[updates]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=161</guid>
+		<description><![CDATA[I know it&#8217;s been a while, but I&#8217;ve finally found time to put together another video.  This week I&#8217;ll be covering my opinion on what [...]]]></description>
+				<content:encoded><![CDATA[<p>I know it&#8217;s been a while, but I&#8217;ve finally found time to put together another video.  This week I&#8217;ll be covering my opinion on what to look for in a phone with a long lifespan, I hope you enjoy it.</p>
+<p><iframe src="https://www.youtube.com/embed/_VPeswyxF5Q" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>&nbsp;</p>
+<p><iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&#038;p=12&#038;l=ur1&#038;category=wireless&#038;banner=02HND5YJK5NEFPBWFS02&#038;f=ifr&#038;lc=pf4&#038;linkID=af02122236ce4cf1d420ecf162d2def3&#038;t=nwphotographs-20&#038;tracking_id=nwphotographs-20" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

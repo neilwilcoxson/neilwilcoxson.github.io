@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>20mm lens &#8211; Neil Wilcoxson</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>CS Student and non-Professional Photographer</description>
+	<lastBuildDate>Thu, 17 May 2018 19:39:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>Video Setup Tour (2016)</title>
+		<link>./../../../2016/11/13/video-setup-tour-2016/index.html</link>
+		<pubDate>Mon, 14 Nov 2016 01:55:45 +0000</pubDate>
+		<dc:creator><![CDATA[Neil]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[YouTube]]></category>
+		<category><![CDATA[1080p]]></category>
+		<category><![CDATA[20mm lens]]></category>
+		<category><![CDATA[camera gear]]></category>
+		<category><![CDATA[DSLR]]></category>
+		<category><![CDATA[equipment]]></category>
+		<category><![CDATA[gear]]></category>
+		<category><![CDATA[HD video]]></category>
+		<category><![CDATA[internet video]]></category>
+		<category><![CDATA[lav mic]]></category>
+		<category><![CDATA[Micro 4/3]]></category>
+		<category><![CDATA[Panasonic GX7]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Video Setup]]></category>
+		<category><![CDATA[Video Setup Tour]]></category>
+		<category><![CDATA[YouTube gear]]></category>
+		<category><![CDATA[YouTube setup]]></category>
+		<category><![CDATA[Zoom H1]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=176</guid>
+		<description><![CDATA[This week I&#8217;ve made a quick tour of my video setup. It&#8217;s just about the smallest amount of equipment that I could use to pull [...]]]></description>
+				<content:encoded><![CDATA[<p>This week I&#8217;ve made a quick tour of my video setup. It&#8217;s just about the smallest amount of equipment that I could use to pull off my current quality. I&#8217;ve put links to my equipment below.</p>
+<p><iframe src="https://www.youtube.com/embed/R0zYitD9Z1U" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Gear in this video (affiliate links):<br />
+Panasonic Lumix GX7: http://amzn.to/2fJ8mrW<br />
+Panasonic 20mm f/1.7: http://amzn.to/2g3r7Lg<br />
+Manfrotto 701HDV: http://amzn.to/2fJ9JXN<br />
+LED Panel: http://amzn.to/2fXNjXK<br />
+Eneloop Power Pack (Batteries): http://amzn.to/2fJ9FYb<br />
+Manfrotto MKBFR4A4-BH: http://amzn.to/2fJevo4<br />
+Zoom H1 Audio Recorder: http://amzn.to/2eL0p4X<br />
+Sony ECMCS3 Lav: http://amzn.to/2fEBTnT<br />
+Kindle Fire (2015): http://amzn.to/2fEGE0S<br />
+White Balance Card: http://amzn.to/2fJ9FaC<br />
+Tenba Discovery Messenger: http://amzn.to/2g3sRnH<br />
+Tripod Bag (verify size): http://amzn.to/2fEIL4V<br />
+<iframe style="border: none;" src="//rcm-na.amazon-adsystem.com/e/cm?o=1&amp;p=12&amp;l=ur1&amp;category=warehouse&amp;banner=0WH1TBABMW4R4HN14382&amp;f=ifr&amp;lc=pf4&amp;linkID=e7c23d72dbee70ebc18568168fd37335&amp;t=nwphotographs-20&amp;tracking_id=nwphotographs-20" width="300" height="250" frameborder="0" marginwidth="0" scrolling="no"></iframe></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

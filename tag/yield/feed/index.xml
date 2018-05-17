@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Yield &#8211; Neil Wilcoxson</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>CS Student and non-Professional Photographer</description>
+	<lastBuildDate>Thu, 17 May 2018 19:39:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>Why We Don&#8217;t Need Stop Signs</title>
+		<link>./../../../2016/07/23/why-we-dont-need-stop-signs/index.html</link>
+		<pubDate>Sat, 23 Jul 2016 20:31:25 +0000</pubDate>
+		<dc:creator><![CDATA[Neil]]></dc:creator>
+				<category><![CDATA[Traffic]]></category>
+		<category><![CDATA[4-Way Stop]]></category>
+		<category><![CDATA[All-Way Stop]]></category>
+		<category><![CDATA[Auto]]></category>
+		<category><![CDATA[Automobiles]]></category>
+		<category><![CDATA[California Roads]]></category>
+		<category><![CDATA[Cars]]></category>
+		<category><![CDATA[Don't Stop]]></category>
+		<category><![CDATA[Driving]]></category>
+		<category><![CDATA[Give Way]]></category>
+		<category><![CDATA[Roundabouts]]></category>
+		<category><![CDATA[Stop Signs]]></category>
+		<category><![CDATA[Traffic Engineering]]></category>
+		<category><![CDATA[Trucks]]></category>
+		<category><![CDATA[Yield]]></category>
+		<category><![CDATA[Yield Right of Way]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=133</guid>
+		<description><![CDATA[In the more populated areas of California (and the North American continent in general), just about every intersection that is not controlled by a traffic [...]]]></description>
+				<content:encoded><![CDATA[<p>In the more populated areas of California (and the North American continent in general), just about every intersection that is not controlled by a traffic light is controlled by a stop sign. Occasionally you&#8217;ll see a poorly implemented roundabout (a topic for another post). Even less often will you see a yield controlled intersection (a concept known as &#8220;give way&#8221; in many other parts of the world). In many cases, it would be more appropriate to use a yield sign. Yet it is more common to see a yield sign used incorrectly than it is to see one used for control of an intersection (I&#8217;ll have to write about that issue another day). However, the yield sign is the solution to the overused stop sign.</p>
+<p>First, let&#8217;s define the type of operation I&#8217;m talking about with a yield sign. In general there will be one road or direction which has the right of way, and should never have to stop or reduce speed unless there is traffic backed up from an intersection ahead (in this case the rules not to block the intersection would apply). The other legs of the intersection that have a yield sign must allow traffic from the other road to go first if necessary to avoid conflict. If there is no traffic, the driver needs only to slow enough to verify that this is so, and then proceed. If visibility is good, slowing may not be necessary. The yield sign defines what the driver should do without adding any unnecessary complications.</p>
+<p>Now let&#8217;s discuss the stop signs that would be easiest to replace with yields. These are the one and two way stops. You might see these when a smaller road intersects with a larger one, with each of the legs of the smaller road facing a stop sign.  T-intersections are very similar.  The reason why it is so easy to replace the stop signs in this scenario is because drivers follow a similar behavior already, even if they comply with the stop sign. How is this so, you might ask. Most of the time when a car stops behind the stop line, a driver cannot see whether there is cross traffic (I guess they forgot that the driver doesn&#8217;t sit at the very front of the car). The driver is supposed to move forward slowly so that they can see, and then proceed when clear. If it is clear, they do not need to stop again. In an effort to follow all laws, the driver has first stopped for the pointless stop sign, and then proceeded to yield to cross traffic.  There was no purpose served in the driver stopping.</p>
+<p>Another scenario where stop signs are commonly used is in the all-way stop. I can see the benefit as a temporary use solution, but most of the time these are inappropriately placed. To problem with fixing these intersections is that you cannot simply replace all of the legs with yields, because the person who goes first is determined by who stops first. Whenever there is one road that clearly has more traffic than the other, the above method should be used (one street employs yields). If roads tend to have equal traffic, perhaps a roundabout should be used (which is just a different implementation of yield signs), or a traffic light (annoying, but is sometimes just the best solution). Also, you could just pick one road to have priority, and let drivers adjust their route based on this change. Whatever floats your boat.</p>
+<p>Believe it or not there are stop sign intersections that do not fit either of the above descriptions. These typically appear in shopping centers and take &#8220;not knowing what you&#8217;re doing&#8221; to a whole new level. For example, a three way stop when there are four legs. Perhaps a one way stop where there are four legs. Or perhaps my favorite, a four way stop, where there are five legs. What?<br />
+<img class="alignnone size-full wp-image-139" src="https://i2.wp.com/neilwilcoxson.com/wp-content/uploads/2016/07/Forum-isection.png?resize=575%2C386" alt="Forum isection" width="575" height="386" srcset="https://i2.wp.com/neilwilcoxson.com/wp-content/uploads/2016/07/Forum-isection.png?w=575 575w, https://i2.wp.com/neilwilcoxson.com/wp-content/uploads/2016/07/Forum-isection.png?resize=300%2C201 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1" /></p>
+<p><em>In the above image, the green arrow represents traffic entering the shopping center, and has no signs.  The other legs are labelled with red arrows indicating a stop.  The stop with the star should technically be part of its own intersection, but drivers treat it as a fifth leg of the intersection.  If it was part of its own intersection, why doesn&#8217;t the leg across from it have a stop?</em></p>
+<p>To be honest, I would be perfectly fine with these intersections just being blown up so we can start over. I really don&#8217;t know how to solve this problem. As for the ones with four legs though, just pick a direction of priority and you&#8217;re good to go.</p>
+<p>Now a one-way stop?</p>
+<p><img class="alignnone size-large wp-image-140" src="https://i0.wp.com/neilwilcoxson.com/wp-content/uploads/2016/07/staterbros-isection.png?resize=860%2C573" alt="staterbros isection" width="860" height="573" srcset="https://i0.wp.com/neilwilcoxson.com/wp-content/uploads/2016/07/staterbros-isection.png?w=947 947w, https://i0.wp.com/neilwilcoxson.com/wp-content/uploads/2016/07/staterbros-isection.png?resize=300%2C200 300w, https://i0.wp.com/neilwilcoxson.com/wp-content/uploads/2016/07/staterbros-isection.png?resize=768%2C512 768w" sizes="(max-width: 860px) 100vw, 860px" data-recalc-dims="1" /></p>
+<p><em>Same system of arrows used from above.  This intersection would be fine with no signs at all, or using yields on two of the legs, but the one stop sign just makes it more dangerous.</em></p>
+<p>A final note:  It might be useful to use a sign that tells drivers on the non-yielding road that other traffic must yield to them.  Turns out they have this in France, they have a sign with this meaning:</p>
+<p><img class="alignnone wp-image-144" src="https://i2.wp.com/neilwilcoxson.com/wp-content/uploads/2016/07/French_Road_Sign_Temp_Priority.png?resize=215%2C189" alt="French_Road_Sign_Temp_Priority" width="215" height="189" data-recalc-dims="1" /></p>
+<p><em>French Priority Sign</em></p>
+<p>Once traffic engineers take my advice, hopefully you&#8217;ll have some more of these beautiful intersections (at least from a traffic engineering standpoint):</p>
+<p><img class="alignnone size-full wp-image-142" src="https://i1.wp.com/neilwilcoxson.com/wp-content/uploads/2016/07/2wayyield.png?resize=860%2C490" alt="2wayyield" width="860" height="490" srcset="https://i1.wp.com/neilwilcoxson.com/wp-content/uploads/2016/07/2wayyield.png?w=981 981w, https://i1.wp.com/neilwilcoxson.com/wp-content/uploads/2016/07/2wayyield.png?resize=300%2C171 300w, https://i1.wp.com/neilwilcoxson.com/wp-content/uploads/2016/07/2wayyield.png?resize=768%2C438 768w" sizes="(max-width: 860px) 100vw, 860px" data-recalc-dims="1" /></p>
+<p><em>2-way yield intersection with angled right turn lanes</em></p>
+<p><img class="alignnone size-large wp-image-143" src="https://i0.wp.com/neilwilcoxson.com/wp-content/uploads/2016/07/tisect.png?resize=682%2C454" alt="tisect" width="682" height="454" srcset="https://i0.wp.com/neilwilcoxson.com/wp-content/uploads/2016/07/tisect.png?w=682 682w, https://i0.wp.com/neilwilcoxson.com/wp-content/uploads/2016/07/tisect.png?resize=300%2C200 300w" sizes="(max-width: 682px) 100vw, 682px" data-recalc-dims="1" /></p>
+<p><em>T-intersection with yield on ending road</em></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Laptop &#8211; Neil Wilcoxson</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>CS Student and non-Professional Photographer</description>
+	<lastBuildDate>Thu, 17 May 2018 19:39:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>Mass Data Storage: My Solution</title>
+		<link>./../../../2016/11/07/mass-data-storage-my-solution/index.html</link>
+		<pubDate>Mon, 07 Nov 2016 23:51:40 +0000</pubDate>
+		<dc:creator><![CDATA[Neil]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[YouTube]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Code 42]]></category>
+		<category><![CDATA[Crashplan]]></category>
+		<category><![CDATA[Drobo]]></category>
+		<category><![CDATA[Hard Drive Toaster]]></category>
+		<category><![CDATA[Hard Drives]]></category>
+		<category><![CDATA[HDD Toaster]]></category>
+		<category><![CDATA[Laptop]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Mass Data Storage]]></category>
+		<category><![CDATA[Online Backup]]></category>
+		<category><![CDATA[RAID]]></category>
+		<category><![CDATA[SSDs]]></category>
+		<category><![CDATA[USB 3]]></category>
+		<category><![CDATA[USB 3.0]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=174</guid>
+		<description><![CDATA[I&#8217;ve uploaded a new video on YouTube. This week I&#8217;ll talk about my solution for storing video and other large files. It&#8217;s more of a [...]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve uploaded a new video on YouTube. This week I&#8217;ll talk about my solution for storing video and other large files. It&#8217;s more of a story, but hopefully you&#8217;ll be able to find some ideas to improve your system.  Watch below:<br />
+<iframe src="https://www.youtube.com/embed/JM_rAqEjPZA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Here&#8217;s an affiliate link for the &#8220;Hard Drive Toaster&#8221;: <a href="http://amzn.to/2eGVEfT">http://amzn.to/2eGVEfT</a></p>
+<p>and Hard Drive Cases: <a href="http://amzn.to/2eGWd9v">http://amzn.to/2eGWd9v</a></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Switching to a Laptop</title>
+		<link>./../../../2016/07/06/switching-to-a-laptop/index.html</link>
+		<pubDate>Wed, 06 Jul 2016 20:14:13 +0000</pubDate>
+		<dc:creator><![CDATA[Neil]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Computer]]></category>
+		<category><![CDATA[Desktop]]></category>
+		<category><![CDATA[Laptop]]></category>
+		<category><![CDATA[Switching]]></category>
+		<category><![CDATA[Switching to Laptop]]></category>
+		<category><![CDATA[Switching to PC]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=123</guid>
+		<description><![CDATA[As part of my preparations to move to college in the fall, I’ve started to do all of my work from my laptop.  I get [...]]]></description>
+				<content:encoded><![CDATA[<p>As part of my preparations to move to college in the fall, I’ve started to do all of my work from my laptop.  I get the impression that most people do their work on laptops now.  However, because a lot of work that I do requires a powerful computer, I was able to use that as an excuse for my not “getting with the times.”  Here are some things that I’ve struggled with during the switch.  I don’t mean to bring these up as complaints, but rather things to consider for anyone in a similar situation.</p>
+<h3>Lack of desk space (on my physical desk)</h3>
+<p>This just might be the biggest obstacle of working on a laptop for me.  I’m used to having a keyboard tray, allowing ample space on the actual desktop to get work done.  When you have a laptop, the monitor, keyboard, and trackpad are all attached.  On the occasions that I’m doing work that involves both my computer and physical papers, I just don’t have enough space.  On the other hand, when I’m just working with physical papers, I can close the laptop, and move it completely out of the way.</p>
+<h3>Using a trackpad</h3>
+<p>Most laptop users probably don’t miss their mouse, but I do.  For one thing, it is very clumsy to do any actual work with a trackpad.  Also, I miss my third click (pressing down on the scroll wheel), which, while browsing the internet, is the “open in new tab” button.  Without a mouse, I must access this option from right click menu.  This is bad enough for me to bring a wireless mouse.</p>
+<h3>Not having all of my drives connected</h3>
+<p>When I used my desktop, I had four hard drives installed.  This was in addition to my SSD that held Windows and other software.  My laptop has a single SSD, which is not enough to hold all of my stuff.  My solution isn’t bad, and it’s what I would’ve had to do with my desktop eventually anyway.  I have several hard drives (the exact ones that used to be installed in my desktop) which I keep in cases on the shelf.  I have this docking station which I’d like to call a “hard drive toaster,” that I can put two drives in at once, and connect via USB 3.0.</p>
+<h3>Problems with my particular laptop</h3>
+<p>One problem I’ve faced is that my laptop does not have a card reader.  Yes, this is a minor inconvenience, but I not only had to buy one, I also have to remember to carry it.</p>
+<p>Additionally, my laptop has a lot of quirks that I just can’t fix.  For example, depending on the weather, the fan might click against the side of the case under heavy use.  If this was my desktop I could send the fans back (and I did once).  With desktops there is also a lot of space to fix problems yourself (for better or worse).  With laptops, you can send the whole unit back, but that leaves you without the computer.  Furthermore, they tend to be less lenient about returning an entire computer.</p>
+<h3>Things that are not an issue (surprisingly)</h3>
+<p>Interestingly enough, I haven’t had any issues with my laptop’s computing power.  Yes, computers could always be faster, but it’s not as bad as I expected.  Rendering out video projects does take a little bit longer, but even on my desktop I tended to walk away while the computer was working anyway.  I guess it helps that I have a gaming oriented laptop that thought of this sort of thing (Razer Blade, if you must know).</p>
+<p>Also, screen size hasn’t been an issue.  I was previously using two 19” monitors, which were pretty old and low resolution.  My laptop actually has a higher resolution than those monitors, so I don’t have any problems fitting things on the screen.  Multitasking on the other hand, is limited by only having one monitor.</p>
+<p>Finally, I haven’t had any problems using a laptop keyboard.  Yes, it gets in the way sometimes, but the actual typing doesn’t bother me that much.</p>
+<p>&nbsp;</p>
+<p>That’s about it.  This is pretty much what I’m stuck with, considering the impracticality of bringing a desktop to school with me.  Even if I could, I wouldn’t want to be anchored to one spot, and would need a laptop most of the time anyway.  I’m interested in hearing other solutions to these problems, and you can leave them in the comments below.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
