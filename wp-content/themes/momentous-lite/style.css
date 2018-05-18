@@ -1113,6 +1113,34 @@ embed, iframe, object, video {
 
 }
 
+/**
+ * All Genericons
+ */
+
+.genericon {
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	-webkit-font-smoothing: antialiased;
+	font-size: 16px;
+	line-height: 1;
+	font-family: 'Genericons';
+	text-decoration: inherit;
+	font-weight: normal;
+	font-style: normal;
+	vertical-align: top;
+}
+
+/**
+ * IE7 and IE6 hacks
+ */
+
+.genericon {
+	*overflow: auto;
+	*zoom: 1;
+	*display: inline;
+}
+
 #social-icons-menu {
 	list-style-type: none;
 	list-style-position: outside;
